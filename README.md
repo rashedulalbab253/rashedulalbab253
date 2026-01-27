@@ -5,7 +5,7 @@
 
 ---
 
-<img src="Rashed.jpeg" alt="Rashedul Albab" width="400px" style="border-radius:100%;">
+<img src="Rashed.jpeg" alt="Rashedul Albab" width="500px" style="border-radius:100%;">
 
 </div>
 
