@@ -5,7 +5,7 @@
 
 ---
 
-<img src="profile.png" alt="Rashedul Albab" width="350px" style="border-radius:50%;">
+<img src="Rashed.jpeg" alt="Rashedul Albab" width="400px" style="border-radius:100%;">
 
 </div>
 
