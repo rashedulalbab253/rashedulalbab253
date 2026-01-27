@@ -29,7 +29,7 @@
 
 ### 📬 **Get in Touch**
 - **Email**: [albabahmed74@@gmail.com](mailto:albabahmed74@gmail.com)   
-- **GitHub**: [SIYAM1809](https://github.com/SIYAM1809)
+- **GitHub**: [rashedulalbab253](https://github.com/rashedulalbab253)
 
 ---
 
@@ -38,13 +38,10 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=deeplearning-dot-ai&logoColor=white&style=for-the-badge)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-4B0082?logo=openai&logoColor=white&style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/-Robotics-FF4500?logo=robotframework&logoColor=white&style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1E90FF?logo=tableau&logoColor=white&style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?logo=deeplearning-dot-ai&logoColor=white&style=for-the-badge)
 
 </div>
@@ -63,10 +60,10 @@
 ### ⚡ **Let's Connect**
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SIYAM1809)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/amansiyam18)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/amanuddin.siyam)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com//)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/rashedulalbab253)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rashedul-albab/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/rashedul.albab)
+[![Researchgate]([https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rashedul-Albab?ev=hdr_xprf)
 
 </div>
 
