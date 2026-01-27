@@ -1,34 +1,74 @@
 <div align="center">
 
 # 👋 Hi, I'm Rashedul Albab (You can call me Rashed 😃)  
-### 💡 ML Engineer | 📊 Researcher 
+### 💡 ML Engineer | 📊 Researcher
 
 ---
 
-<img src="neural.gif" alt="Animation" width="700px" height="auto">
+<img src="profile.jpg" alt="Rashedul Albab" width="200px" style="border-radius:50%;">
 
 </div>
 
 ---
 
 ### 👀 About Me
-- 🔭 **Current Focus:** Advancing AI at the intersection of research and industry by developing generative AI, RAG-based models, AI agents, and robotics solutions, with expertise in computer vision, NLP, and scalable ML frameworks for real-world deployment and scientific exploration.  
-
-#### 🚀 Tech Stack
-**AI & ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, RAG, AI Agents  
-**Computer Vision & NLP:** OpenCV, YOLO, Transformers, LLMs  
-**Deployment & DevOps:** Docker, AWS, Git, Streamlit, FastAPI  
-**Research & Visualization:** Jupyter, Matplotlib, Plotly  
-
-- ☕ **Fun Fact**: I love watching football and playing  
-- 🎯 **Dream**: To travel to every country in the world  
+- 🔭 **Current Focus:** Research-driven AI systems for real-world impact, specializing in Generative AI, RAG, AI agents, Computer Vision, NLP, and scalable ML deployments.  
+- ☕ **Fun Fact:** A passionate football fan  
+- 🎯 **Dream:** Travel the world
 
 ---
 
-### 🌱 What I Do
-- 🧠 Research and develop machine learning, deep learning, computer vision, NLP, and explainable AI with an emphasis on robustness, efficiency, and real-world impact  
-- 📊 Design lightweight and interpretable models, validated through peer-reviewed research and applied to healthcare, energy, and human-centered AI problems  
-- 🛠️ Build end-to-end AI systems, from data preprocessing and model training to evaluation and deployment using modern ML frameworks  
+### 🚀 Tech Stack
+**AI & ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, RAG, AI Agents  
+**CV & NLP:** OpenCV, YOLO, Transformers, LLMs  
+**Deployment:** Docker, AWS, Git, Streamlit, FastAPI  
+**Research & Visualization:** Jupyter, Matplotlib, Plotly  
+
+---
+
+### 🛠️ What I Do
+- 🧠 Research, design, and develop efficient ML, CV, NLP, and explainable AI models for real-world applications  
+- 📊 Build interpretable models validated in healthcare, energy, and human-centered AI  
+- 🛠️ Implement end-to-end AI systems from data preprocessing to deployment using modern frameworks  
+
+---
+
+### 🧠 Tech Interests
+<div align="center">
+
+**🐍 Programming:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+
+**🤖 AI & ML:**  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=deeplearning-dot-ai&logoColor=white&style=for-the-badge) 
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?logo=deeplearning-dot-ai&logoColor=white&style=for-the-badge) 
+![Artificial Intelligence](https://img.shields.io/badge/-AI-4B0082?logo=openai&logoColor=white&style=for-the-badge) 
+![RAG](https://img.shields.io/badge/-RAG-00CCBB?style=for-the-badge) 
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF69B4?style=for-the-badge) 
+![LLMs](https://img.shields.io/badge/-LLMs-4B0082?style=for-the-badge)
+
+**🖼️ Computer Vision & NLP:**  
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-008080?style=for-the-badge) 
+![NLP](https://img.shields.io/badge/-NLP-800080?style=for-the-badge)
+
+**🛠️ Deployment & Tools:**  
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge) 
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge)
+
+</div>
+
+---
+
+### 💻 Top Languages
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalbab253&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
@@ -44,18 +84,13 @@
 
 ---
 
-### 🧠 Tech Interests
+### 🌟 Profile Insights
 <div align="center">
+[![](https://visitcount.itsvg.in/api?id=smri29&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=deeplearning-dot-ai&logoColor=white&style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?logo=deeplearning-dot-ai&logoColor=white&style=for-the-badge)
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-4B0082?logo=openai&logoColor=white&style=for-the-badge)
-![RAG](https://img.shields.io/badge/-RAG-00CCBB?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF69B4?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-FFA500?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/-LLMs-4B0082?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-008080?style=for-the-badge)
-![NLP](https://img.shields.io/badge/-NLP-800080?style=for-the-badge)
-![Deplo]()
+---
+
+### 💬 Quote
+> **✨ Research-driven AI. Real-world impact. ✨**  
+> *Bridging academia and industry, one intelligent system at a time.*
