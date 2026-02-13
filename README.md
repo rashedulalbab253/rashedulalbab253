@@ -12,6 +12,22 @@
 
 ---
 
+
+
+
+
+### 🌐 Portfolio
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View-My_Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rashedul-albab.netlify.app)
+
+</div>
+
+---
+
+
+
+
 ### 👀 About Me
 - 🔭 **Current Focus:** Research-driven AI systems for real-world impact, specializing in Generative AI, RAG, AI agents, Computer Vision, NLP, and scalable ML deployments.  
 - ☕ **Fun Fact:** A passionate football fan  
@@ -64,12 +80,8 @@
 
 ---
 
-### 💻 GitHub Statistics
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rashedulalbab253&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Rashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedulalbab253&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
----
+
+
 
 ### 📬 Get in Touch
 <div align="center">
