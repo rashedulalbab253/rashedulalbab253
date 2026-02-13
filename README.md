@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Rashedul Albab (You can call me Rashed 😃)  
@@ -5,7 +6,7 @@
 
 ---
 
-<img src="Rashed.jpeg" alt="Rashedul Albab" width="250px" style="border-radius:100%;">
+<img src="Rashed.jpeg" alt="Rashedul Albab" width="500px" style="border-radius:100%;">
 
 </div>
 
@@ -63,13 +64,11 @@
 
 ---
 
-### 💻 Top Languages
+### 💻 GitHub Statistics
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalbab253&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rashedulalbab253&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedulalbab253&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
 ---
 
 ### 📬 Get in Touch
@@ -84,17 +83,10 @@
 
 ---
 
-### 🌟 Profile Insights
-<div align="center">
 
-<a href="https://github.com/rashedulalbab253">
-  <img src="https://visitcount.itsvg.in/api?id=rashedulalbab253&label=Profile%20Views&color=8&icon=0&pretty=true" alt="Profile Views" />
-</a>
-
-</div>
-
----
 
 ### 💬 Quote
 > **✨ Research-driven AI. Real-world impact. ✨**  
 > *Bridging academia and industry, one intelligent system at a time.*     
+ 
+
