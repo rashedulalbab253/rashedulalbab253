@@ -5,7 +5,7 @@
 
 ---
 
-<img src="Rashed.jpeg" alt="Rashedul Albab" width="500px" style="border-radius:100%;">
+<img src="Rashed.jpeg" alt="Rashedul Albab" width="250px" style="border-radius:100%;">
 
 </div>
 
@@ -66,7 +66,7 @@
 ### 💻 Top Languages
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalbab253&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalbab253&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -86,11 +86,15 @@
 
 ### 🌟 Profile Insights
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=smri29&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<a href="https://github.com/rashedulalbab253">
+  <img src="https://visitcount.itsvg.in/api?id=rashedulalbab253&label=Profile%20Views&color=8&icon=0&pretty=true" alt="Profile Views" />
+</a>
+
 </div>
 
 ---
 
 ### 💬 Quote
 > **✨ Research-driven AI. Real-world impact. ✨**  
-> *Bridging academia and industry, one intelligent system at a time.*
+> *Bridging academia and industry, one intelligent system at a time.*     
