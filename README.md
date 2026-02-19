@@ -19,7 +19,7 @@
 ### 🌐 Portfolio
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View-My_Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rashedul-albab.netlify.app)
+[![Portfolio](https://img.shields.io/badge/View-My_Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rashed-albab.netlify.app)
 
 </div>
 
