@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Rashedul Albab (You can call me Rashed 😃)  
+# 👋 Hi, I'm Rashedul Albab  
 ### 💡 AI/ML Engineer | 📊 Researcher
 
 ---
