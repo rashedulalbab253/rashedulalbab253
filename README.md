@@ -38,7 +38,7 @@
 ### 🚀 Tech Stack
 **AI & ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, RAG, AI Agents  
 **CV & NLP:** OpenCV, YOLO, Transformers, LLMs  
-**Deployment:** Docker, AWS, Git, Streamlit, FastAPI  
+**Deployment:** Docker, Git, Streamlit, FastAPI  
 **Research & Visualization:** Jupyter, Matplotlib, Plotly  
 
 ---
