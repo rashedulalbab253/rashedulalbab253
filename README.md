@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/rashedul-albab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/rashedulalbab253"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Rashedul-Albab"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
-  <a href="mailto:rashedulalbab6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:albabahmed74@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -36,7 +36,7 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/main/Rashed.jpeg" width="200px" style="border-radius:50%" alt="Rashedul Albab" />
+      <img src="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/main/Rashed.jpeg" width="300px" style="border-radius:50%; object-fit:cover; object-position:center top;" alt="Rashedul Albab" />
     </td>
   </tr>
 </table>
@@ -93,6 +93,11 @@
 
 | **Project** | **Description** | **Tech** |
 | :--- | :--- | :--- |
+| **[LLM Hallucination Detection Pipeline](https://github.com/rashedulalbab253/llm-Hallucination-detection-pipeline)** | Production-grade factual accuracy evaluation on TruthfulQA (817 Qs, 38 categories) with interactive Flask/Plotly dashboard | 🔍 DeepEval · Flask · Plotly · OpenAI |
+| **[RAG Evaluation Framework](https://github.com/rashedulalbab253/RAG-Evaluation-Framework)** | Automated RAGAS-based evaluation suite (Faithfulness, Relevancy, Context Recall) with trade-off analysis dashboard | 📊 RAGAS · LangChain · ChromaDB · Flask |
+| **[LLM-as-a-Judge System](https://github.com/rashedulalbab253/llm-as-a-judge-system)** | GPT-4 judge evaluating weak model outputs on 4 rubrics (coherence, factuality, tone, safety) calibrated against human annotations | ⚖️ DeepEval G-Eval · Alpaca Eval · OpenAI |
+| **[Prompt Regression Testing Pipeline](https://github.com/rashedulalbab253/Prompt-Regression-Testing-Pipeline)** | CI/CD quality gate that blocks prompt/model regressions using DeepEval + pytest + GitHub Actions on a 50-case golden dataset | 🛡️ DeepEval · pytest · GitHub Actions · OpenAI |
+| **[Red-Teaming Framework for LLM Safety](https://github.com/rashedulalbab253/Red-Teaming-Framework-for-LLM-Safety)** | Adversarial testing across 40+ vulnerability categories (jailbreaks, bias, PII, toxicity); reduced AdvBench violation rate from 56% → 0% | 🔴 DeepTeam · AdvBench · OpenAI · Python |
 | **[AgroGPT](https://github.com/rashedulalbab253)** | Bengali-inclusive multilingual voice-first AI advisory system with CI/CD | 🤖 FastAPI · React · Sarvam AI · Docker |
 | **[MediPredict-X](https://github.com/rashedulalbab253)** | Multi-disease risk prediction with LLM-based clinical insights | 🧠 FastAPI · Next.js · Llama 3 · Gemini |
 | **[Medibot AI](https://github.com/rashedulalbab253)** | RAG-powered clinical assistant with hallucination-minimized medical QA | 🏥 Groq · Pinecone · FastAPI |
@@ -108,6 +113,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/rashedulalbab253?style=flat-square&logo=github&label=Total%20Stars&color=58a6ff)](https://github.com/rashedulalbab253?tab=repositories)
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rashedulalbab253&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
