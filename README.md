@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rashedul+Albab+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Researcher;AI+for+Healthcare+%7C+AI+for+Power+%26+Energy;Explainable+ML+%7C+RAG+%7C+Multi-Agent+Systems;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Rashedul+Albab+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Researcher;AI+for+Healthcare+%7C+AI+for+Power+%26+Energy;Explainable+ML+%7C+RAG+%7C+Multi-Agent+Systems;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
 </div>
 
 <div align="center">
