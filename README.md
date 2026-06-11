@@ -1,104 +1,75 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Rashedul Albab  
-### 💡 AI/ML Engineer | 📊 Researcher
+# Rashedul Albab
 
----
+**AI/ML Engineer · Researcher · Builder**
 
-<img src="Rashed.jpeg" alt="Rashedul Albab" width="500px" style="border-radius:100%;">
+[![Portfolio](https://img.shields.io/badge/Portfolio-rashedulalbab.netlify.app-6A5ACD?style=flat-square&logo=google-chrome&logoColor=white)](https://rashedulalbab.netlify.app)
+[![Email](https://img.shields.io/badge/Email-albabahmed74@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albabahmed74@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rashedul--albab-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashedul-albab/)
+[![GitHub](https://img.shields.io/badge/GitHub-rashedulalbab253-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rashedulalbab253)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rashedul-Albab)
 
 </div>
 
 ---
 
+## About
 
+I design and build research-driven AI systems — from raw data to deployed product. My work sits at the intersection of healthcare AI, computer vision, and explainable ML, with a focus on systems that are interpretable, reproducible, and built to matter beyond the benchmark.
 
+Currently exploring: **Generative AI · RAG pipelines · Multi-agent systems · Medical image analysis**
 
+---
 
-### 🌐 Portfolio
+## Work
+
+**Research & Modeling**
+- Design ML, CV, and NLP pipelines for healthcare, energy, and human-centered AI applications
+- Build interpretable, clinically-validated models with explainability as a first-class concern
+- Publish findings across peer-reviewed venues and open-source reproducible code
+
+**Engineering**
+- Implement end-to-end systems — preprocessing, training, evaluation, and production deployment
+- Deploy with FastAPI, Docker, and Streamlit; orchestrate with LangChain and modern LLM tooling
+- Work in PyTorch, TensorFlow, scikit-learn, and Hugging Face across projects
+
+---
+
+## Stack
+
+| Domain | Tools |
+|---|---|
+| **ML & Deep Learning** | PyTorch · TensorFlow · scikit-learn · Hugging Face |
+| **LLMs & Agents** | LangChain · RAG · AI Agents · OpenAI API |
+| **Computer Vision** | OpenCV · YOLO · CNN architectures |
+| **NLP** | Transformers · Seq2Seq · fine-tuning |
+| **Deployment** | Docker · FastAPI · Streamlit · AWS |
+| **Languages** | Python · C++ |
+| **Research tooling** | Jupyter · Matplotlib · Plotly · W&B |
+
+---
+
+## Selected Projects
+
+> Full project writeups on my [portfolio](https://rashedulalbab.netlify.app) and pinned repositories below.
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View-My_Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rashed-albab.netlify.app)
+![Rashedul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashedulalbab253&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalbab253&layout=compact&hide_border=true&theme=default)
 
 </div>
 
 ---
 
-
-
-
-### 👀 About Me
-- 🔭 **Current Focus:** Research-driven AI systems for real-world impact, specializing in Generative AI, RAG, AI agents, Computer Vision, NLP, and scalable ML deployments.  
-- ☕ **Fun Fact:** A passionate football fan  
-- 🎯 **Dream:** Travel the world
-
----
-
-### 🚀 Tech Stack
-**AI & ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, RAG, AI Agents  
-**CV & NLP:** OpenCV, YOLO, Transformers, LLMs  
-**Deployment:** Docker, Git, Streamlit, FastAPI  
-**Research & Visualization:** Jupyter, Matplotlib, Plotly  
-
----
-
-### 🛠️ What I Do
-- 🧠 Research, design, and develop efficient ML, CV, NLP, and explainable AI models for real-world applications  
-- 📊 Build interpretable models validated in healthcare, energy, and human-centered AI  
-- 🛠️ Implement end-to-end AI systems from data preprocessing to deployment using modern frameworks  
-
----
-
-### 🧠 Tech Interests
 <div align="center">
 
-**🐍 Programming:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-
-**🤖 AI & ML:**  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=deeplearning-dot-ai&logoColor=white&style=for-the-badge) 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?logo=deeplearning-dot-ai&logoColor=white&style=for-the-badge) 
-![Artificial Intelligence](https://img.shields.io/badge/-AI-4B0082?logo=openai&logoColor=white&style=for-the-badge) 
-![RAG](https://img.shields.io/badge/-RAG-00CCBB?style=for-the-badge) 
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF69B4?style=for-the-badge) 
-![LLMs](https://img.shields.io/badge/-LLMs-4B0082?style=for-the-badge)
-
-**🖼️ Computer Vision & NLP:**  
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-008080?style=for-the-badge) 
-![NLP](https://img.shields.io/badge/-NLP-800080?style=for-the-badge)
-
-**🛠️ Deployment & Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge)
+*Research-driven AI. Real-world impact.*
 
 </div>
-
----
-
-
-
-
-### 📬 Get in Touch
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albabahmed74@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/rashedulalbab253)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rashedul-albab/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rashedul-Albab?ev=hdr_xprf)
-
-</div>
-
----
-
-
-
-### 💬 Quote
-> **✨ Research-driven AI. Real-world impact. ✨**  
-> *Bridging academia and industry, one intelligent system at a time.*     
- 
-
