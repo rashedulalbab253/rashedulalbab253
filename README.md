@@ -28,7 +28,7 @@
       <ul>
         <li>🏥 <b>AI for Healthcare</b> — Computer Vision · RAG · Multi-Agent Systems · LLMs</li>
         <li>⚡ <b>AI for Power & Energy</b> — Explainable ML · Forecasting · Smart Grid Security</li>
-        <li>📄 <b>4 peer-reviewed publications</b> — IEEE ICCIT 2025</li>
+        <li>📄 <b>4 peer-reviewed publications</b> — IEEE </li>
         <li>📝 <b>1 paper under review</b> — Optics & Laser Technology, Elsevier Q1 (IF ≈ 5.0)</li>
         <li>🧠 3 manuscripts in preparation — EMNLP / Elsevier Q1 / IEEE targets</li>
         <li>🚀 <b>10+ deployed AI systems</b> — FastAPI · Docker · LLMs · RAG</li>
