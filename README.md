@@ -123,14 +123,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rashedulalbab253&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/output/github-contribution-grid-snake.svg"/>
-</picture>
-
 </div>
 
 <br/>
