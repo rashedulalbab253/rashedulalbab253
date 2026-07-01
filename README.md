@@ -30,13 +30,13 @@
         <li>⚡ <b>AI for Power & Energy</b> — Explainable ML · Forecasting · Smart Grid Security</li>
         <li>📄 <b>4 peer-reviewed publications</b> — IEEE </li>
         <li>📝 <b>1 paper under review</b> — Optics & Laser Technology, Elsevier Q1 (IF ≈ 5.0)</li>
-        <li>🧠 3 manuscripts in preparation — EMNLP / Elsevier Q1 / IEEE targets</li>
+        <li>🧠 5 manuscripts in preparation — EMNLP / Elsevier Q1 / IEEE targets</li>
         <li>🚀 <b>10+ deployed AI systems</b> — FastAPI · Docker · LLMs · RAG</li>
         <li>📍 Sylhet, Bangladesh 🇧🇩</li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/main/Rashed.jpeg" width="300px" style="border-radius:50%; object-fit:cover; object-position:center top;" alt="Rashedul Albab" />
+      <img src="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/main/Rashed.jpeg" width="220" height="220" style="border-radius:50%; object-fit:cover; object-position:center 20%; max-width:220px; max-height:220px;" alt="Rashedul Albab" />
     </td>
   </tr>
 </table>
@@ -69,7 +69,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Publications-4-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/IEEE-4_Papers-00629B?style=flat-square&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manuscripts_In_Prep-4-orange?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Under_Review-1_Elsevier_Q1-FF6B00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manuscripts_In_Prep-5-orange?style=flat-square&logoColor=white" />
 </div>
 
 <br/>
@@ -81,9 +82,11 @@
 | 3 | **Enhancing Wind Farm Operational Efficiency Through Power Output Classification** | IEEE ICCIT 2025 | [![IEEE](https://img.shields.io/badge/IEEE-Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICCIT68739.2025.11491408) |
 | 4 | **Time Dependent Control of Voltage and Current via a Tunable Metasurface** | IEEE ICCIT 2025 | [![IEEE](https://img.shields.io/badge/IEEE-Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICCIT68739.2025.11491809) |
 | 5 | **Robust Optical Pulling of Plasmonic, Chiral & Dielectric Nanorods via Hyperbolic Metamaterials** | Elsevier Q1 (Under Review) | [![Elsevier](https://img.shields.io/badge/Elsevier-Under_Review-FF6B00?style=flat-square&logoColor=white)]() |
-| 6 | **ViT-SkinNet: Vision Transformer for Monkeypox & Vesicular Skin Disorder Detection** | In Preparation | ![WIP](https://img.shields.io/badge/Manuscript-In_Prep-yellow?style=flat-square) |
-| 7 | **TrustEHRAgent: Calibrated Multi-Agent Systems for Secure EHR Question Answering** | In Preparation | ![WIP](https://img.shields.io/badge/Manuscript-In_Prep-yellow?style=flat-square) |
-| 8 | **Explainable & Privacy-Preserving Federated Intelligence for Smart Grid Cyber Attack Detection** | In Preparation | ![WIP](https://img.shields.io/badge/Manuscript-In_Prep-yellow?style=flat-square) |
+| 6 | **Predicting and Pricing Methane: Uncertainty-Aware Machine Learning for Carbon Cost Estimation in Bio-Slurry Fertilization** | In Preparation | ![WIP](https://img.shields.io/badge/Manuscript-In_Prep-yellow?style=flat-square) |
+| 7 | **Cross-Category Generalization in Bengali Fake News Detection: A Leave-One-Category-Out Study** | In Preparation | ![WIP](https://img.shields.io/badge/Manuscript-In_Prep-yellow?style=flat-square) |
+| 8 | **ViT-SkinNet: Vision Transformer for Monkeypox & Vesicular Skin Disorder Detection** | In Preparation | ![WIP](https://img.shields.io/badge/Manuscript-In_Prep-yellow?style=flat-square) |
+| 9 | **TrustEHRAgent: Calibrated Multi-Agent Systems for Secure EHR Question Answering** | In Preparation | ![WIP](https://img.shields.io/badge/Manuscript-In_Prep-yellow?style=flat-square) |
+| 10 | **Explainable & Privacy-Preserving Federated Intelligence for Smart Grid Cyber Attack Detection** | In Preparation | ![WIP](https://img.shields.io/badge/Manuscript-In_Prep-yellow?style=flat-square) |
 
 <br/>
 
@@ -119,10 +122,6 @@
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rashedulalbab253&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulalbab253&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=jupyter%20notebook,html,css,javascript,typescript)
 
 <br/>
 
