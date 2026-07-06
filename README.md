@@ -121,7 +121,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rashedulalbab253&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=rashedulalbab253&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
