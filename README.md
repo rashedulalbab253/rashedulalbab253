@@ -90,24 +90,7 @@
 
 <br/>
 
-## 🏆 Featured Projects
 
-<div align="center">
-
-| **Project** | **Description** | **Tech** |
-| :--- | :--- | :--- |
-| **[LLM Hallucination Detection Pipeline](https://github.com/rashedulalbab253/llm-Hallucination-detection-pipeline)** | Production-grade factual accuracy evaluation on TruthfulQA (817 Qs, 38 categories) with interactive Flask/Plotly dashboard | 🔍 DeepEval · Flask · Plotly · OpenAI |
-| **[RAG Evaluation Framework](https://github.com/rashedulalbab253/RAG-Evaluation-Framework)** | Automated RAGAS-based evaluation suite (Faithfulness, Relevancy, Context Recall) with trade-off analysis dashboard | 📊 RAGAS · LangChain · ChromaDB · Flask |
-| **[LLM-as-a-Judge System](https://github.com/rashedulalbab253/llm-as-a-judge-system)** | GPT-4 judge evaluating weak model outputs on 4 rubrics (coherence, factuality, tone, safety) calibrated against human annotations | ⚖️ DeepEval G-Eval · Alpaca Eval · OpenAI |
-| **[Prompt Regression Testing Pipeline](https://github.com/rashedulalbab253/Prompt-Regression-Testing-Pipeline)** | CI/CD quality gate that blocks prompt/model regressions using DeepEval + pytest + GitHub Actions on a 50-case golden dataset | 🛡️ DeepEval · pytest · GitHub Actions · OpenAI |
-| **[Red-Teaming Framework for LLM Safety](https://github.com/rashedulalbab253/Red-Teaming-Framework-for-LLM-Safety)** | Adversarial testing across 40+ vulnerability categories (jailbreaks, bias, PII, toxicity); reduced AdvBench violation rate from 56% → 0% | 🔴 DeepTeam · AdvBench · OpenAI · Python |
-| **[AgroGPT](https://github.com/rashedulalbab253)** | Bengali-inclusive multilingual voice-first AI advisory system with CI/CD | 🤖 FastAPI · React · Sarvam AI · Docker |
-| **[MediPredict-X](https://github.com/rashedulalbab253)** | Multi-disease risk prediction with LLM-based clinical insights | 🧠 FastAPI · Next.js · Llama 3 · Gemini |
-| **[Medibot AI](https://github.com/rashedulalbab253)** | RAG-powered clinical assistant with hallucination-minimized medical QA | 🏥 Groq · Pinecone · FastAPI |
-| **[BengalVision ALPR](https://github.com/rashedulalbab253)** | Real-time Bangla number plate detection at ~92% accuracy | 👁️ YOLOv11 · ONNX · OpenVINO |
-| **[E-Passport AI Advisor](https://github.com/rashedulalbab253)** | Multi-agent system for automated bilingual passport guidance | 🤝 CrewAI · Gemini · OpenAI |
-| **[100+ Language STEM Solver](https://github.com/rashedulalbab253)** | Step-by-step Math/Physics/Chemistry solutions in 100+ languages | 🌐 FastAPI · Docker · Gemini 2.5 |
-| **[AI Smart Exam Platform](https://github.com/rashedulalbab253)** | Real-time automated grading for objective & subjective assessments | 📝 FastAPI · Docker · Groq Llama 3 |
 
 </div>
 
