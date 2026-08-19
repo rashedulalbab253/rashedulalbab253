@@ -23,7 +23,7 @@
     <td width="62%" valign="top">
       <h2>🚀 About Me</h2>
       <p>
-        <b>AI/ML Engineer & Researcher</b> applying explainable ML, deep learning, and multi-agent systems to two high-impact domains: <b>Medical AI</b> and <b>AI for Power & Energy Systems</b>. B.Sc. in <b>Electrical & Electronic Engineering</b> from <b>Shahjalal University of Science and Technology</b>, Bangladesh.
+        <b>ML Engineer & Researcher</b> applying explainable ML, deep learning, and multi-agent systems to two high-impact domains: <b>Medical AI</b> and <b>AI for Power & Energy Systems</b>. B.Sc. in <b>Electrical & Electronic Engineering</b> from <b>Shahjalal University of Science and Technology</b>, Bangladesh.
       </p>
       <ul>
         <li>🏥 <b>AI for Healthcare</b> — Computer Vision · RAG · Multi-Agent Systems · LLMs</li>
