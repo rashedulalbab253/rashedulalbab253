@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://rashedulalbab.netlify.app"><img src="https://img.shields.io/badge/Portfolio-rashedulalbab.netlify.app-6A5ACD?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+ 
   <a href="https://www.linkedin.com/in/rashedul-albab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/rashedulalbab253"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Rashedul-Albab"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
