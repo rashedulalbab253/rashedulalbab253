@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Rashedul+Albab+%F0%9F%91%8B;ML+Engineer+%26+Researcher;Explainable+ML+%7C+RAG+%7C+Multi-Agent+Systems;Building+Real-World+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Rashedul+Albab+%F0%9F%91%8B;ML+Engineer+%26+Researcher;Building+Generative+AI+%26+Multi-Agent+Systems;Explainable+ML+%7C+RAG+%7C+Agentic+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,9 +22,10 @@
     <td width="62%" valign="top">
       <h2>🚀 About Me</h2>
       <p>
-        <b>ML Engineer & Researcher</b> building explainable ML, deep learning, and multi-agent systems. B.Sc. in <b>Electrical & Electronic Engineering</b> from <b>Shahjalal University of Science and Technology</b>, Bangladesh.
+        <b>ML Engineer & Researcher</b> building <b>Generative AI</b> and <b>Multi-Agent Systems</b>, alongside explainable ML and deep learning. B.Sc. in <b>Electrical & Electronic Engineering</b> from <b>Shahjalal University of Science and Technology</b>, Bangladesh.
       </p>
       <ul>
+        <li>🤖 <b>Building Generative AI and Multi-Agent Systems</b> — LLM-powered RAG pipelines, agentic workflows, and multimodal applications</li>
         <li>🚀 <b>Built and deployed 10+ ML models and AI systems</b> — from deep learning models to LLM-powered RAG pipelines and multi-agent workflows, served via <b>FastAPI</b> and containerized with <b>Docker</b></li>
         <li>📍 Sylhet, Bangladesh 🇧🇩</li>
       </ul>
