@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashedulalbab253&style=flat-square&color=58a6ff" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rashedulalbab253" alt="Profile Views" />
 </div>
 
 <br/>
@@ -9,10 +10,9 @@
 </div>
 
 <div align="center">
- 
-  <a href="https://www.linkedin.com/in/rashedul-albab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rashedulalbab253"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:albabahmed74@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rashedul-albab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/rashedulalbab253"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:albabahmed74@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/main/Rashed.jpeg" width="220" height="220" style="border-radius:50%; object-fit:cover; object-position:center 20%; max-width:220px; max-height:220px;" alt="Rashedul Albab" />
+      <img src="https://raw.githubusercontent.com/rashedulalbab253/rashedulalbab253/main/Rashed.jpeg" width="220" height="220" alt="Rashedul Albab" />
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@
 | **ML/DL** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Transformers](https://img.shields.io/badge/-Hugging_Face_Transformers-FFD21F?style=flat-square&logo=huggingface&logoColor=black) |
 | **Generative AI** | ![LLMs](https://img.shields.io/badge/-LLMs-412991?style=flat-square&logoColor=white) ![Multimodal LLMs](https://img.shields.io/badge/-Multimodal_LLMs-4285F4?style=flat-square&logo=google&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-00CCBB?style=flat-square&logoColor=white) ![Generative Models](https://img.shields.io/badge/-Generative_Models-8A2BE2?style=flat-square&logoColor=white) |
 | **AI Agents** | ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B6B?style=flat-square&logoColor=white) ![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent_Systems-6A5ACD?style=flat-square&logoColor=white) ![Agentic RAG](https://img.shields.io/badge/-Agentic_RAG-00CCBB?style=flat-square&logoColor=white) ![LLM Agents](https://img.shields.io/badge/-LLM_Agents-F54E27?style=flat-square&logoColor=white) |
-| **Computer Vision** | ![Image Segmentation](https://img.shields.io/badge/-Image_Segmentation-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Object Detection](https://img.shields.io/badge/-Object_Detection-E91E63?style=flat-square&logoColor=white) ![Digital Image Processing](https://img.shields.io/badge/-Digital_Image_Processing-0076A8?style=flat-square&logoColor=white) ![Feature Extraction](https://img.shields.io/badge/-Feature_Extraction-FF6F00?style=flat-square&logoColor=white) ![Enhancement](https://img.shields.io/badge/-Enhancement-008080?style=flat-square&logoColor=white) ![OCR](https://img.shields.io/badge/-OCR-2496ED?style=flat-square&logoColor=white) ![VLMs](https://img.shields.io/badge/-VLMs-4285F4?style=flat-square&logoColor=white) |
+| **Computer Vision** | ![Image Segmentation](https://img.shields.io/badge/-Image_Segmentation-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Object Detection](https://img.shields.io/badge/-Object_Detection-E91E63?style=flat-square&logoColor=white) ![Digital Image Processing](https://img.shields.io/badge/-Digital_Image_Processing-0076A8?style=flat-square&logo=opencv&logoColor=white) ![Feature Extraction](https://img.shields.io/badge/-Feature_Extraction-FF6F00?style=flat-square&logoColor=white) ![Enhancement](https://img.shields.io/badge/-Enhancement-008080?style=flat-square&logoColor=white) ![OCR](https://img.shields.io/badge/-OCR-2496ED?style=flat-square&logo=opencv&logoColor=white) ![VLMs](https://img.shields.io/badge/-VLMs-4285F4?style=flat-square&logo=google&logoColor=white) |
 | **Deployment & Tools** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
 | **Engineering Software** | ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![Proteus](https://img.shields.io/badge/-Proteus-1B5E20?style=flat-square&logoColor=white) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white) |
 | **Hardware & Embedded** | ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-FF6F00?style=flat-square&logoColor=white) ![Sensors](https://img.shields.io/badge/-Sensors-00CCBB?style=flat-square&logoColor=white) ![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-6A5ACD?style=flat-square&logoColor=white) |
