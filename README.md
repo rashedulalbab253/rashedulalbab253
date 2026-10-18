@@ -82,5 +82,5 @@
 <br/>
 
 <div align="center">
-  <i>Building AI systems with real-world impact.</i>
+  <i>Building AI/ML systems with real-world impact.</i>
 </div>
